@@ -12,7 +12,7 @@ body{
 header{
     width:100%;
     height:500px;
-    background-image:url(photos/purple.jpg);
+    background-image:url(purple.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -121,63 +121,63 @@ section div{
 }
 
 .foto2{
-    background-image:url(photos/butterfly.jpg);
+    background-image:url(butterfly.jpg);
     position:absolute;
     top:0;
     left:20%;
 }
 
 .foto3{
-    background-image:url(photos/cherry.jpg);
+    background-image:url(cherry.jpg);
     position:absolute;
     top:0;
     left:40%;
 }
 
 .foto4{
-    background-image:url(photos/cherry2.jpg);
+    background-image:url(cherry2.jpg);
     position:absolute;
     top:0;
     left:60%;
 }
 
 .foto5{
-    background-image:url(photos/crocus.jpg);
+    background-image:url(crocus.jpg);
     position:absolute;
     top:0;
     left:80%;
 }
 
 .foto6{
-    background-image:url(photos/crocus2.jpg);
+    background-image:url(crocus2.jpg);
     position:absolute;
     bottom:0;
     left:0;
 }
 
 .foto7{
-    background-image:url(photos/liverwort.jpg);
+    background-image:url(liverwort.jpg);
     position:absolute;
     bottom:0;
     left:20%;
 }
 
 .foto8{
-    background-image:url(photos/flowers.jpg);
+    background-image:url(flowers.jpg);
     position:absolute;
     bottom:0;
     left:40%;
 }
 
 .foto9{
-    background-image:url(photos/tulips.jpg);
+    background-image:url(tulips.jpg);
     position:absolute;
     bottom:0;
     left:60%;
 }
 
 .foto10{
-    background-image:url(photos/tulips2.jpg);
+    background-image:url(tulips2.jpg);
     position:absolute;
     bottom:0;
     left:80%;
