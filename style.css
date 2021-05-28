@@ -1,0 +1,188 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:serif;
+    text-transform:lowercase;
+}
+
+header{
+    width:100%;
+    height:500px;
+    background-image:url(photos/purple.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    padding:50px;
+}
+
+.logo{
+    width:60px;
+    height:60px;
+    background-image:radial-gradient(yellow, orange);
+        border-radius:100%;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+h5{
+    padding-top:30PX;
+    text-align:center;
+    color:rgba(255, 215, 200, 0.8)
+}
+
+nav{
+    width:80%;
+    height:60px;
+    margin:0 auto;
+    background-image: linear-gradient(#fefefe, #e2e4e0);
+    border-radius:7px;
+    border-top:5px solid #BA55D3;
+}
+
+ul{
+    width:100%;
+    height:auto;
+    text-align:center;
+}
+
+li{
+    display:inline-block;
+    width:220px;
+    width:70px;
+    border-radius:7px;
+    position:relative;
+    top:-3px;
+}
+
+li:hover{
+    background-image:linear-gradient(#6C2DC7, #DA70D6);
+}
+
+.antras{
+    background-image:linear-gradient(#6C2DC7, #DA70D6);
+}
+
+a{
+    display:block;
+    width:220px;
+    width:70px;
+    text-decoration:none;
+    padding-top:10px;
+    color:black;
+}
+
+a:hover{
+    color:white;
+}
+
+h1{
+    width:500px;
+    height:150px;
+    margin:0 auto;
+    text-align:center;
+    margin-top:100px;
+    background-image:linear-gradient(#6C2DC7, #DA70D6);
+    mix-blend-mode:screen;
+    text-shadow:2px 2px 3E5E4E2;
+    border-radius:7px;
+    font-size:50px;
+}
+
+section{
+    width:100%;
+    height:500px;
+    background-image:linear-gradient(#6C2DC7, #DA70D6);
+    padding:10px;
+    position:relative;
+}
+
+section div{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    border:2px solid white;
+    text-align:center;
+    background-repeat:  no-repeat;
+    background-size:cover;
+    background-position:center;
+    margin:30px;
+}
+
+.foto1{
+    background-image:url(photos/blue.jpg);
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.foto2{
+    background-image:url(photos/butterfly.jpg);
+    position:absolute;
+    top:0;
+    left:20%;
+}
+
+.foto3{
+    background-image:url(photos/cherry.jpg);
+    position:absolute;
+    top:0;
+    left:40%;
+}
+
+.foto4{
+    background-image:url(photos/cherry2.jpg);
+    position:absolute;
+    top:0;
+    left:60%;
+}
+
+.foto5{
+    background-image:url(photos/crocus.jpg);
+    position:absolute;
+    top:0;
+    left:80%;
+}
+
+.foto6{
+    background-image:url(photos/crocus2.jpg);
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+
+.foto7{
+    background-image:url(photos/liverwort.jpg);
+    position:absolute;
+    bottom:0;
+    left:20%;
+}
+
+.foto8{
+    background-image:url(photos/flowers.jpg);
+    position:absolute;
+    bottom:0;
+    left:40%;
+}
+
+.foto9{
+    background-image:url(photos/tulips.jpg);
+    position:absolute;
+    bottom:0;
+    left:60%;
+}
+
+.foto10{
+    background-image:url(photos/tulips2.jpg);
+    position:absolute;
+    bottom:0;
+    left:80%;
+}
+
+section div:hover{
+    mix-blend-mode:screen;
+}
